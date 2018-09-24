@@ -10,7 +10,7 @@ namespace netcoretest2.Controllers
         public string index() {
 
 
-            return "hello from the homecontroller";
+            return "hello from the homecontroller that is changed";
         }
     }
 }
