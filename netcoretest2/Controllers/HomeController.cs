@@ -10,7 +10,7 @@ namespace netcoretest2.Controllers
         public string index() {
 
 
-            return "some new text to test, fetching does not change it, I hope";
+            return "this is changed locally";
         }
     }
 }
